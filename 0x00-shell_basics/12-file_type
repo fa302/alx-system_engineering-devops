@@ -1,0 +1,2 @@
+#!/bin/bash
+The type of file '/tmp/iamafile' is: cannot open `/tmp/iamafile' (No such file or directory)
